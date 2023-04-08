@@ -33,7 +33,7 @@ class MainWindow(Frame):
         #
         self.main_area_panel = wx.Panel(self)
 
-        bmp_filename = "gripy_logo.jpg"
+        bmp_filename = "free_gripy_logo.png"
         bmp = GripyBitmap(bmp_filename)
         self._static_bmp = wx.StaticBitmap(self.main_area_panel, wx.ID_ANY,
                                            bmp, wx.Point(0, 0),

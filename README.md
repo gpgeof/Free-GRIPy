@@ -1,3 +1,13 @@
+# Free GRIpy
+
+Um fork do projeto [GriPy](https://github.com/giruenf/GRIPy), acrônimo para Geofísica de Reservatório Interativa em Python, desenvolvido e mantido pelo Grupo de Inferência de Reservatório (GIR) da Universidade Estadual do Norte Fluminense [(UENF)](https://uenf.br/portal/).
+A inclusão do prefixo 'Free' no nome se deve ao fato deste ser uma versão do projeto original pensada para
+ser totalmente livre e gratuita.
+
+<p align="center">
+  <img src="./basic/icons/free_gripy_logo.png" width="320" title="hover text">
+</p>
+
 ## GriPy: Geofísica de Reservatório Interativa em Python
 
 **GriPy**, acrônimo para Geofísica de Reservatório Interativa em Python, como explicitamente indicado, é um aplicativo escrito em linguagem Python e bibliotecas especialistas, projetado especialmente para a execução de estudos de caracterização e modelagem petrofísica probabilística com integração de dados e informações de rocha-perfil-sísmica.  

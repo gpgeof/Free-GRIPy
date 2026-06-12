@@ -20,7 +20,10 @@ import warnings
 
 # with warnings.catch_warnings():                            # with version
 #    warnings.simplefilter("error", module="matplotlib")
-warnings.filterwarnings("error", module="matplotlib")  # full version
+warnings.filterwarnings(
+    "error",
+    message="Adding an axes using the same arguments as a previous axes",
+)  # full version
 
 
 ###############################################################################
